@@ -1,0 +1,11 @@
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/mustafasen/Desktop/egitim 101/Pratik - Patika Kütüphane/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
