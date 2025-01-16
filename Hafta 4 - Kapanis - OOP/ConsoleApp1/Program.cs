@@ -1,7 +1,10 @@
 ﻿using Magaza;  // 'Magaza' adlı namespace'i kullanmak için eklenmiş.
 
+
+
 // Programın başlangıcında kullanıcıya hoş geldin mesajı veriliyor.
 Console.WriteLine("Patika Teknoloji Atölyesi'ne Hoş geldiniz!");
+ void urunOlusturma(){
 
 // Kullanıcıya hangi tür ürün üretmek istediği soruluyor.
 Console.WriteLine("Telefon üretmek için ---> 1\nBilgisayar üretmek için ---> 2 yazınız!");
@@ -82,3 +85,13 @@ else if (kullaniciGirdisi == 2)
     // Kullanıcının girdiği bilgileri yazdırmak için bilgisayar nesnesinin metodları çağrılıyor.
     bilgisayar.UrunAdiGetir();  // Bilgisayarın adı yazdırılıyor.
 }
+}
+urunOlusturma();
+
+Console.WriteLine("Yeni Urun Olusturmak Ister Misiniz ?"); 
+string cevap = Console.ReadLine();
+
+if (cevap == "evet"){
+    urunOlusturma();
+}else{Console.WriteLine("Hoscakalin :)"); 
+};
