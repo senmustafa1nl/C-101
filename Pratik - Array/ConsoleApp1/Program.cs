@@ -22,7 +22,7 @@ public class Program
         }
 
         // 3 - Kullanıcıdan yeni bir sayı alınıp dizinin 11. elemanı olarak ekleniyor.
-        Console.WriteLine("Lütfen 0 ile 100 arasinda yeni bir sayı giriniz:");
+        Console.WriteLine("Lütfen 0 ile 1000 arasinda yeni bir sayı giriniz:");
         Array.Resize(ref sayilar, sayilar.Length + 1);  // Dizinin boyutunu 1 arttırıyoruz (11 elemanlı hale getiriyoruz).
 
         sayilar[10] = Convert.ToInt32(Console.ReadLine());  // Kullanıcıdan alınan değeri dizinin 11. elemanına ekliyoruz.
